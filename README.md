@@ -24,7 +24,7 @@
 <a href="#"><img style="max-width: 100%;" alt="medium" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" /> </a>
 <a href="#"><img style="max-width: 100%;" alt="medium" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> </a>
 
-Connect with me:<br><a href="https://www.linkedin.com/in/bachar-haddad/" target="_blank"><img alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+Connect with me:<br><a href="https://www.linkedin.com/in/bachar-haddad-a591041a4/" target="_blank"><img alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BacHaddad&layout=compact&theme=black)</a>
 
