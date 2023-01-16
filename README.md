@@ -1,7 +1,7 @@
 ### Hi there, I am Bachar :wave:
 
 
-- :computer:  I’m currently studying to become a frontend developer
+- :computer:  Full Stack developer
 - :house:  I live in Sweden.
 
 <a href="#"><img style="max-width: 100%;" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
